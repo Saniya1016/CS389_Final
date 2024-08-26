@@ -15,13 +15,12 @@ The **Speech Emotion Recognizer** is a machine learning project designed to dete
 - **Python**: Core programming language.
 - **Librosa**: For audio feature extraction.
 - **pyTorch**: Machine learning library for model training and evaluation.
-- **TensorFlow/Keras**: For deep learning models (if applicable).
 
 ## Installation
 
 To set up the Speech Emotion Recognizer locally, follow these steps:
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/speech-emotion-recognizer.git
    cd speech-emotion-recognizer
